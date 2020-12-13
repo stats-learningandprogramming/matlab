@@ -1,3 +1,3 @@
 # MATLAB
 
-This is the practice space of the MATLAB
+This is the jihoon space of the MATLAB
