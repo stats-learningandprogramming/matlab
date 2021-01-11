@@ -21,3 +21,8 @@ MATLAB Certification:
   - Certified MATLAB Professional, Prerequisites; MATLAB for Data Processing and Visualization, MATLAB Programming Techniques, and Building Interactive Applications in MATLAB
   
 2. Coursera Certification
+
+
+<hr>
+
+<h3 align=\"center\"> © JiHoon 2020. All rights reserved. <h3/>
